@@ -5,7 +5,9 @@ and I'm passionate about software development, coding, and solving complex probl
 Here you'll find my personal projects, contributions, and anything related to my journey in software engineering.
 
 💻 Primary Interests: Software Development, Full-Stack Development, Machine Learning, Data Structures & Algorithms
+
 🌱 Currently Learning: Program Design
+
 👯 Looking to Collaborate On: Open source projects, mobile apps, anything related to software development
 
 Languages: Python, Java, C++

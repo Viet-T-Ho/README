@@ -6,7 +6,7 @@ Here you'll find my personal projects, contributions, and anything related to my
 
 💻 Primary Interests: Software Development, Full-Stack Development, Machine Learning, Data Structures & Algorithms
 
-🌱 Currently Learning: Program Design
+🌱 Currently Learning: Program Design II
 
 👯 Looking to Collaborate On: Open source projects, mobile apps, anything related to software development
 

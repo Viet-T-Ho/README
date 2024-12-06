@@ -1,4 +1,3 @@
-# README
 Hi, I'm Viet 👋
 
 Welcome to my GitHub! I'm a Computer Science student at the University of Illinois at Chicago (UIC), 
